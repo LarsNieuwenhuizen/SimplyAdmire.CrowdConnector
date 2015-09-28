@@ -1,0 +1,3 @@
+prototype(SimplyAdmire.CrowdConnector:LoginBox) < prototype(TYPO3.TypoScript:Template) {
+	templatePath = 'resource://SimplyAdmire.CrowdConnector/Private/Templates/Authentication/Login.html'
+}
